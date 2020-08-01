@@ -1,0 +1,2 @@
+petid,updatedpetname,updatedstatus,newpetid,categoryid,categoryname,petname,tagid,tagname,petstatus,orderid,quantity,shipdate,status,complete,userid,username,firstname,lastname,email,password,phone,userstatus,updatedphone,id1,username1,email1,id2,username2,email2
+305,Blacky,sold,305,2,Dogs,Broomo,2,Black,available,2,5,2020-09-22T00:53:12.263Z,placed,true,1,SamTester,Sam,Tester,sam@gmail.com,sam@1234,123456789,2,999999999,20,sam1,sam1@gmail.com,21,sam2,sam2@gmail.com
